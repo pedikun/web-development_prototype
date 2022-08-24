@@ -1,0 +1,8 @@
+url: http://pedikun.github.io
+
+languages: ["en", "id"]
+exclude_from_localizations: ["assets", "CNAME"]
+defaultLang: en
+languageNames:
+  id: Indonesia
+  en: English
